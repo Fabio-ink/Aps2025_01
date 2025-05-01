@@ -6,7 +6,6 @@ public class MergeSortImagens {
     public static void main(String[] args) {
         File pasta = new File("/home/fluxyfp/Downloads/PastaTeste");
 
-        // Filtro: apenas arquivos de imagem
         File[] imagens = pasta.listFiles((dir, nome) ->
                 nome.toLowerCase().endsWith(".jpg") || nome.toLowerCase().endsWith(".jpeg") || nome.toLowerCase().endsWith(".png")
         );
