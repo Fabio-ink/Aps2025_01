@@ -20,7 +20,3 @@ public static void bubbleSort(File[] arquivos) {
         if (!trocou) break;
     }
 }
-
-//commit test
-
-//commit test 2 
