@@ -1,2 +1,6 @@
 # Aps2025_01
-Trabalho semestral, extração e ordenação de metadados de um grupo de imagens
+Trabalho semestral
+
+Criação de 3 algoritimos de ordenação para ordenar um agrupado de imagens da floresta amazônica 
+
+E comparação de entre os métodos de ordenação
