@@ -1,7 +1,8 @@
-package TMO;
+import java.io.File;
 
-// Implementação do Bubble Sort
-public static void bubbleSort(File[] arquivos) {
+public class bubbleSort{
+
+public bubbleSort(File[] arquivos) {
     int n = arquivos.length;
     boolean trocou;
 
@@ -19,4 +20,5 @@ public static void bubbleSort(File[] arquivos) {
         // Se não houve troca, a lista já está ordenada
         if (!trocou) break;
     }
+}
 }

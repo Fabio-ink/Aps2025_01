@@ -1,4 +1,3 @@
-package SMO;
 import java.io.File;
 
 public class MergeSortImagens {
